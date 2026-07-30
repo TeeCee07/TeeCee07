@@ -47,7 +47,7 @@ I'm a passionate and driven final-year IT student with a strong foundation in so
 > Web-based blood bank management system for managing donations, donor records, blood stock, and hospital requests.
 - **Tech:** C#, HTML, JavaScript, SQL
 
-### 🌐 [Portfolio Website](https://TeeCee07.github.io/portfolio/)
+### 🌐 [Portfolio Website](https://teecee07.github.io/Teboho_Portfolio/)
 > Modern, responsive personal portfolio showcasing my skills and projects.
 - **Tech:** HTML, CSS, JavaScript, Formspree
 
