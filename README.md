@@ -36,7 +36,7 @@
 
 I'm a **BSc Information Technology graduate from North-West University**, passionate about technology, problem-solving, and developing solutions that make everyday processes more efficient.
 
-My interests extend beyond software development. I'm interested in the broader Information Technology industry, including **IT support, systems analysis, database management, application development, IT infrastructure, cybersecurity, and technology-driven business solutions**.
+My interests extend beyond software development. I'm interested in the broader Information Technology industry, including **IT support, systems analysis, database management, application development, IT infrastructure, Data Engineering, Network Engineering, cybersecurity, and technology-driven business solutions**.
 
 Throughout my academic journey and project experience, I've worked with different technologies, programming languages, databases, and development environments. I've gained practical experience building business applications, integrating APIs, managing relational databases, troubleshooting technical issues, and collaborating on team-based projects.
 
@@ -46,7 +46,7 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 
 **What I bring:**
 
-- 💻 A solid foundation in Information Technology, programming, and application development.
+- 💻 A solid foundation in Information Technology, programming, Computer Networking and application development.
 - 🗄️ Experience working with relational databases, SQL, and data management.
 - 🌐 Understanding of web technologies, APIs, and application architecture.
 - 🔧 Problem-solving, debugging, and technical troubleshooting capabilities.
@@ -54,7 +54,7 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 - 📚 Adaptability, curiosity, and a willingness to learn new technologies.
 - 🎯 An interest in using technology to solve real-world business and organisational challenges.
 
-**Career interests:** Graduate programmes, internships, and junior opportunities across Software Development, IT Support, Application Support, Systems Analysis, Database Management, Systems Administration, and other technology-related fields.
+**Career interests:** Graduate programmes, internships, and junior opportunities across Software Development, IT Support, Application Support, Systems Analysis, Database Management, Systems Administration, Networking and other technology-related fields.
 
 ---
 
@@ -64,7 +64,7 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 
 North-West University (NWU)
 
-My academic background has provided me with a foundation in programming, data structures and algorithms, database systems, information systems, software development, computer systems, and broader IT concepts.
+My academic background has provided me with a foundation in programming, data structures and algorithms, database systems, information systems, software development, computer systems, computer networks and broader IT concepts.
 
 ---
 
@@ -103,7 +103,7 @@ My academic background has provided me with a foundation in programming, data st
 | IT & Systems | Operating Systems, Technical Troubleshooting, Information Systems |
 | Development Practices | Git, GitHub, Pull Requests, Agile Collaboration |
 | Deployment & Infrastructure | Docker, GitHub Actions, Vercel, Linux |
-| Productivity | VS Code, npm, Microsoft Office, Google Workspace |
+| Productivity | VS Code,Visual Studio, npm, Microsoft Office, Google Workspace |
 
 ---
 
