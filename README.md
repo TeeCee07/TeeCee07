@@ -277,22 +277,6 @@ Beyond technical knowledge, I value the professional skills that contribute to s
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeeCee07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeCee07&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TeeCee07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
