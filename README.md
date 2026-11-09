@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f4c81,100:6366f1&height=230&section=header&text=Teboho%20Comfort%20Masiteng&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Graduate%20%7C%20Technology%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=55" width="100%" alt="Teboho Comfort Masiteng"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f4c81,100:6366f1&height=230&section=header&text=Teboho%20Comfort%20Masiteng&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSc%20Information%20Technology%20Graduate%20%7C%20Aspiring%20IT%20Professional&descSize=16&descAlignY=55" width="100%" alt="Teboho Comfort Masiteng"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Information+Technology+Graduate;Software+%26+Systems+Development;Database+Management+%26+SQL;IT+Support+%26+Technical+Solutions;Always+Learning.+Always+Building." alt="Professional interests"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Information+Technology+Graduate;Software+%26+Application+Development;IT+Support+%26+Systems;Database+Management+%26+SQL;Cloud+Computing+%26+Technology;Always+Learning.+Always+Building." alt="Professional interests"/>
 
 <br/>
 
@@ -36,24 +36,35 @@
 
 I'm a **BSc Information Technology graduate from North-West University**, passionate about technology, problem-solving, and developing solutions that make everyday processes more efficient.
 
-My interests extend beyond software development. I'm interested in the broader IT industry, including **IT support, systems analysis, database management, application development, IT infrastructure, and technology-driven business solutions**.
+My interests extend beyond software development. I'm interested in the broader Information Technology industry, including **IT support, systems analysis, database management, application development, IT infrastructure, cybersecurity, and technology-driven business solutions**.
 
-Throughout my academic journey and project experience, I've worked with different technologies and development environments, building practical systems that address real-world requirements. I've gained experience working with databases, designing applications, integrating APIs, troubleshooting technical issues, and collaborating on team-based projects.
+Throughout my academic journey and project experience, I've worked with different technologies, programming languages, databases, and development environments. I've gained practical experience building business applications, integrating APIs, managing relational databases, troubleshooting technical issues, and collaborating on team-based projects.
 
-I enjoy understanding how technology works behind the scenes, identifying problems, and finding practical ways to solve them.
+I enjoy understanding how technology works, identifying challenges, and finding practical solutions that improve systems, processes, and user experiences.
 
-I'm currently looking for opportunities where I can apply my IT knowledge, contribute to a team, gain industry experience, and continue growing professionally.
+I'm currently looking for opportunities where I can apply my IT knowledge, contribute to an organisation, gain industry experience, and continue developing as a professional.
 
-**What I'm bringing to the table:**
+**What I bring:**
 
-- 🖥️ A solid foundation in Information Technology and software development.
-- 🗄️ Experience with relational databases, SQL, and data management.
+- 💻 A solid foundation in Information Technology, programming, and application development.
+- 🗄️ Experience working with relational databases, SQL, and data management.
 - 🌐 Understanding of web technologies, APIs, and application architecture.
-- 🔧 Problem-solving, debugging, and technical troubleshooting skills.
+- 🔧 Problem-solving, debugging, and technical troubleshooting capabilities.
 - 🤝 Experience collaborating on academic and team-based IT projects.
-- 📚 A willingness to learn new technologies and adapt to different IT environments.
+- 📚 Adaptability, curiosity, and a willingness to learn new technologies.
+- 🎯 An interest in using technology to solve real-world business and organisational challenges.
 
-**Currently open to:** Graduate programmes, internships, junior positions, and entry-level opportunities across Software Development, IT Support, Systems Analysis, Application Support, Database Management, and related IT fields.
+**Career interests:** Graduate programmes, internships, and junior opportunities across Software Development, IT Support, Application Support, Systems Analysis, Database Management, Systems Administration, and other technology-related fields.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology (BSc IT)**
+
+North-West University (NWU)
+
+My academic background has provided me with a foundation in programming, data structures and algorithms, database systems, information systems, software development, computer systems, and broader IT concepts.
 
 ---
 
@@ -69,9 +80,9 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,dotnet,laravel&theme=dark&perline=8" alt="Frameworks and development tools"/>
 
-### Databases & Backend
+### Databases & APIs
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,php,postman&theme=dark&perline=8" alt="Databases and backend technologies"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,postman&theme=dark&perline=8" alt="Databases and API tools"/>
 
 ### Tools & Technologies
 
@@ -84,10 +95,12 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 | Category | Technologies & Skills |
 |:---|:---|
 | Programming | Java, C#, Python, PHP, JavaScript, TypeScript |
-| Web Development | React, HTML, CSS, Vite, Tailwind CSS |
+| Web Development | React, HTML, CSS, Vite, Tailwind CSS, React Router |
 | Backend Development | ASP.NET, Laravel, REST APIs, Laravel Sanctum |
-| Databases | PostgreSQL, MySQL, SQL, Database Design |
-| Testing & API Tools | Vitest, Postman, Swagger, OpenAPI |
+| Databases | PostgreSQL, MySQL, SQL, Relational Database Design |
+| API Development & Testing | Postman, Swagger, OpenAPI, API Integration |
+| Software Quality | Vitest, Debugging, Testing, Validation |
+| IT & Systems | Operating Systems, Technical Troubleshooting, Information Systems |
 | Development Practices | Git, GitHub, Pull Requests, Agile Collaboration |
 | Deployment & Infrastructure | Docker, GitHub Actions, Vercel, Linux |
 | Productivity | VS Code, npm, Microsoft Office, Google Workspace |
@@ -116,12 +129,13 @@ I'm currently looking for opportunities where I can apply my IT knowledge, contr
 
 A car rental management system designed to simplify vehicle bookings and rental operations.
 
-**Key areas:**
+**Key features and areas:**
+
 - Vehicle and fleet management.
 - Customer records.
 - Rental bookings.
+- Vehicle searching and availability.
 - Administrative functionality.
-- Search and vehicle availability.
 
 **Technologies:**
 
@@ -138,7 +152,8 @@ A car rental management system designed to simplify vehicle bookings and rental 
 
 A blood bank management application designed to support donor administration and blood inventory operations.
 
-**Key areas:**
+**Key features and areas:**
+
 - Donor registration and management.
 - Blood donation records.
 - Blood stock management.
@@ -166,7 +181,8 @@ A blood bank management application designed to support donor administration and
 
 A collaborative academic conference management platform developed as part of a CMPG323 team project at North-West University.
 
-**Key areas:**
+**Key features and areas:**
+
 - Conference management.
 - Paper submissions and reviews.
 - Reviewer allocation.
@@ -194,7 +210,8 @@ A collaborative academic conference management platform developed as part of a C
 
 My personal portfolio showcasing my technical background, projects, skills, and professional journey.
 
-**Key features:**
+**Key features and areas:**
+
 - Responsive design.
 - Dark and light themes.
 - Project showcases.
@@ -208,6 +225,55 @@ My personal portfolio showcasing my technical background, projects, skills, and 
 </td>
 </tr>
 </table>
+
+---
+
+## 🎯 Professional Interests & Continuous Growth
+
+I'm committed to continuously developing my technical knowledge and becoming a well-rounded IT professional. My interests extend across different areas of Information Technology, and I'm always looking for opportunities to learn, explore new technologies, and apply my knowledge to practical challenges.
+
+### Areas of Professional Interest
+
+| Area | Focus |
+|:---|:---|
+| 💻 Software & Application Development | Application development, programming, system maintenance and software architecture. |
+| 🗄️ Data & Database Management | SQL, database design, data integrity, data management and reporting. |
+| 🖥️ IT Support & Systems Administration | Technical troubleshooting, system configuration, user support and IT operations. |
+| ☁️ Cloud Computing & Infrastructure | Cloud platforms, deployment, networking, virtualisation and infrastructure management. |
+| 🔐 Cybersecurity & Information Security | Security fundamentals, access management, data protection and secure systems. |
+| 📊 Systems Analysis & Business Technology | Requirements gathering, business processes, systems analysis and technology-driven solutions. |
+| 🧪 Software Testing & Quality Assurance | Software testing, debugging, validation, performance and quality improvement. |
+| 🤖 Emerging Technologies & Automation | Artificial intelligence, automation, modern technology trends and digital transformation. |
+| 🌐 Networking & Computer Systems | Network fundamentals, connectivity, computer systems and IT infrastructure. |
+| 📈 IT Project Management | Project coordination, teamwork, documentation, planning and Agile methodologies. |
+
+### My Approach to Professional Growth
+
+- Continuously improving my programming and technical problem-solving abilities.
+- Exploring technologies and tools used in modern IT environments.
+- Strengthening my understanding of databases, networking, operating systems and infrastructure.
+- Developing knowledge of cybersecurity, information security and best practices.
+- Improving my ability to analyse requirements and translate them into practical solutions.
+- Building projects that demonstrate practical skills and technical understanding.
+- Exploring cloud platforms, automation and emerging technologies.
+- Developing communication, teamwork, adaptability and professional collaboration.
+- Staying informed about developments and opportunities within the technology industry.
+
+**My professional goal:** To build a career in Information Technology, contribute to meaningful projects, develop practical industry experience, and continuously grow into a capable and versatile IT professional.
+
+---
+
+## 🧠 Professional Strengths
+
+Beyond technical knowledge, I value the professional skills that contribute to successful IT teams and projects.
+
+- **Problem-solving:** Approaching challenges logically and finding practical solutions.
+- **Adaptability:** Willingness to learn new tools, technologies and working methods.
+- **Teamwork:** Collaborating with others towards shared project objectives.
+- **Communication:** Sharing technical information and ideas clearly.
+- **Analytical thinking:** Understanding problems, evaluating requirements and identifying solutions.
+- **Continuous learning:** Taking initiative to improve knowledge and technical capabilities.
+- **Attention to detail:** Understanding the importance of accuracy, quality and reliability.
 
 ---
 
@@ -227,29 +293,17 @@ My personal portfolio showcasing my technical background, projects, skills, and 
 
 ---
 
-## 🎯 Professional Development
-
-I'm continuously expanding my technical knowledge and working towards becoming a well-rounded IT professional.
-
-**Current focus areas:**
-
-- Advanced C# and application development.
-- Cloud computing and modern infrastructure.
-- Database management and optimisation.
-- Software quality and testing.
-- Improving technical troubleshooting and problem-solving.
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:312e81&height=3&section=header" width="80%"/>
 
-### Building solutions. Solving problems. Growing through technology.
+### Building Solutions. Solving Problems. Growing Through Technology.
 
-I'm always interested in connecting with professionals, collaborating on projects, and exploring opportunities within the IT industry.
+I'm always interested in connecting with professionals, collaborating on projects, learning from experienced individuals, and exploring opportunities within the IT industry.
+
+Whether it's software development, IT support, systems, databases, infrastructure or emerging technologies, I'm excited about opportunities to contribute, learn and grow.
 
 <br/>
 
