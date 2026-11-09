@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=200&section=header&text=Teboho%20Comfort%20Masiteng&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=BSc%20Information%20Technology%20Graduate%20%C2%B7%20Software%20Engineer&descAlignY=54&descAlign=50" width="100%" alt="Teboho Comfort Masiteng — BSc IT Graduate, Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=200&section=header&text=Teboho%20Comfort%20Masiteng&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=BSc%20Information%20Technology%20Graduate%20%C2%B7%20Software%20Engineer&descAlignY=54&descAlign=50" width="100%" alt="Teboho Comfort Masiteng — BSc IT Graduate" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://teecee07.github.io/Teboho_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teboho-comfort-073490178)
